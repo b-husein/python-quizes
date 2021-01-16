@@ -13,10 +13,11 @@
 # Karachi   |   13.0
 # Mumbai    |   12.5
 
-population = {"Shangai": 17.8, "Istanbul": 13.3, "Karachi": 13.0, "Mumbai": 12.5}
+# population = {"Shangai": 17.8, "Istanbul": 13.3, "Karachi": 13.0, "Mumbai": 12.5}
 
 # print(population.get("Tuzla"))
 # output is: Nones
 
 # print(population["Tuzla"])
 # output is: KeyError: 'Tuzla'
+
