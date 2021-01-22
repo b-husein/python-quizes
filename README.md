@@ -1,1 +1,1 @@
-# python-quizes
+# some-python-quizes
